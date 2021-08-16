@@ -70,3 +70,30 @@ h1{
     cursor: pointer;
 }
 
+.social_links img , .informative img{
+    width: 25px;
+    height: 25px;
+    margin: 5px auto;
+    cursor: pointer;
+}
+
+.social_links{
+    width: 50px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.informative{
+    width: 50px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+img{
+    width: 25px;
+    height: 25px;
+}
