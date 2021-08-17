@@ -9,7 +9,7 @@
     height: 100vh;
     /* background-image: url(background.png); */
     /* background-image: url(new_img/bg.jpg); */
-    background-image: url(new_bg.jpg);
+    background-image: url(bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -54,7 +54,8 @@ button{
 
 h1{
     font-size: 70px;
-    margin: 05px 0px 0px;
+    font-family: 'Finger Paint', cursive;
+    margin: 05px 0px 10px;
     line-height: 80px;
     word-spacing: 2px;
 }
@@ -113,7 +114,7 @@ p{
 
 .p_span{
     color: red;
-    font-size: 30px;
+   
 }
 
 .r_span{
@@ -123,42 +124,42 @@ p{
 
 .o_span{
     color: orange;
-    font-size: 30px;
+    
 }
 
 .f_span{
     color: yellow;
-    font-size: 30px;
+   
 }
 
 .i_span{
     color: yellowgreen;
-    font-size: 30px;
+   
 }
 
 .l_span{
     color: green;
-    font-size: 30px;
+    
 }
 
 .e_span{
     color: rgb(0, 255, 213);;
-    font-size: 30px;
+   
 }
 
 .dot_span{
     color: rgb(0, 162, 255);;
-    font-size: 30px;
+  
 }
 
 .m_span{
     color: blue;
-    font-size: 30px;
+    
 }
 
 .ee_span{
     color: blueviolet;
-    font-size: 30px;
+    
 }
 
 h3{
